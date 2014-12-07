@@ -1,0 +1,4 @@
+i-9b60627a ansible_ssh_host=ec2-54-146-182-193.compute-1.amazonaws.com ansible_ssh_user=ubuntu
+
+[example]
+i-9b60627a index=0
