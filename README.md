@@ -14,7 +14,7 @@ Look at the example hosts file to see the output of this script.
 
 ## Acknowledgement
 
-Inspired by the [Zookeeper-Terraform-Ansible](https://github.com/ianunruh/zookeeper-ansible-terraform) recipe. I adopted much of the code and added support for Amazon EC2 instances.
+Inspired by the [zookeeper-ansible-terraform](https://github.com/ianunruh/zookeeper-ansible-terraform) recipe. I adopted much of the code and added support for Amazon EC2 instances.
 
 ## License
 
