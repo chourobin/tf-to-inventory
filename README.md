@@ -4,7 +4,7 @@ This is a small python script that generates an Ansible [inventory](http://docs.
 
 ## Usage
 
-```python
+```bash
 # run from the directory where your terraform.tfstate file is located
 python tf-to-inventory.py
 ```
