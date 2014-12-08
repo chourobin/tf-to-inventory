@@ -1,6 +1,6 @@
 # Terraform to Inventory
 
-This is a small python script that generates an Ansible [inventory](http://docs.ansible.com/intro_inventory.html)  from a [Terraform](https://terraform.io/) state file. You can spawn a lot of VMs using Terraform and then provision them with Ansible.
+This is a small python script that generates an Ansible [inventory](http://docs.ansible.com/intro_inventory.html)  from a [Terraform](https://terraform.io/) state file. You can spin up a bunch of VMs using Terraform and then provision them with Ansible.
 
 ## Usage
 
